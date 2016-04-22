@@ -4,7 +4,7 @@
 package sys0;
 
 /**
- * @author flex tex mex 2
+ * @author flex tex mex
  *
  */
 public class Test2 {
